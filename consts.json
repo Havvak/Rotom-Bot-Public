@@ -1,0 +1,41 @@
+{
+    "SERVER_ID": "1335526497636847616",
+    "WEBHOOK_CHANNEL": {
+        "id": "1335540848649048156"
+    },
+    "GP_LOGS_CHANNEL": {
+        "id": "1345460351768199198",
+        "testingHeader": "🧪 Testing Godpacks 🧪",
+        "liveHeader": "✅ Live Godpacks ✅",
+        "excludeThread": "GODPACK GUIDELINES"
+    },
+    "GP_THREAD_CHANNEL": {
+        "id": "1338917163012063384",
+        "tagIds": {
+            "testing": "1338919085592940685",
+            "live": "1338919901548511242",
+            "dead": "1338919936864681984",
+            "0/5": "1338920167513657526",
+            "1/5": "1338920206004654150",
+            "2/5": "1338920235255861308",
+            "3/5": "1338920272551743549",
+            "4/5": "1338920310765781043",
+            "5/5": "1338920333784125491",
+            "leveled": "1338923975354486875",
+            "invalid": "1340268817208578139",
+            "guidelines": "1342558707392708699"
+        }
+    },
+    "REACTIONS" : {
+        "1pack" : "1pack",
+        "2pack" : "2pack",
+        "3pack" : "3pack",
+        "4pack" : "4pack",
+        "nopack" : "nopack"
+    },
+    "GIST" : {
+        "id":"cf8643651193817e4d50af7ddd61929b",
+        "fileName":"vip_ids.txt"
+    }
+
+}
